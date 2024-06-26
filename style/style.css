@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'usphandwritting';
+    src: url('/fonts/USP_Handwriting.ttf') format('truetype'); 
+}
+
+body {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'usphandwritting', sans-serif;
+}
+
+.coming-soon {
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
