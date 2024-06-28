@@ -1,16 +1,11 @@
-@font-face {
-    font-family: 'usphandwritting';
-    src: url('/fonts/USP_Handwriting.ttf') format('truetype'); 
-}
-
 body {
-    background-color: orange;
+    background-color: #ff8400;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    font-family: 'usphandwritting', sans-serif;
+    font-family: 'Poppins',  Verdana, sans-serif
 }
 
 .coming-soon {
